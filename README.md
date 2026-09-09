@@ -6,6 +6,8 @@ Please note that this board was heavily inspired by [Ruby-Vietnam board](https:/
 
 If you are looking for jobs, listed jobs are in [Github issues](https://github.com/js-hcm/job-board/issues)
 
+You can also [search and filter the jobs from this repository on openings.dev](https://openings.dev/communities/js-hcm/job-board). Each result links back to the original issue for current details and application instructions.
+
 If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job post__. It is our duty to uphold this belief by asking that you, the recruiter, to _comply_ with our strict rules below. If the job post does not meet our requirements, it would get __deleted after 2 days__.
 
 ### What type of job could you advertise?
